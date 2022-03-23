@@ -13,7 +13,7 @@ My research interests include acquired language disorders (principally aphasia),
 
 ---
 
-You can find my CV [here](Soilemezidi_CV.pdf)
+You can find my full CV [here](Soilemezidi_CV.pdf).
 
 ---
 
@@ -22,13 +22,12 @@ Add also:
 - Publications
 
 - Let's keep in touch!
- * email
- * linkedIn
- * twitter
- * orcid
- * researchgate
+  - email
+  - linkedIn
+  - twitter
+  - orcid
+  - researchgate
 
-//
 ---
 
 You can use the [editor on GitHub](https://github.com/MarielenaS/msoilemezidi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
