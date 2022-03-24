@@ -19,7 +19,7 @@ You can find my full CV [here](Soilemezidi_CV.pdf).
 
 Add also:
 
-- List of [publications](https://marielenas.github.io/personal-webpage/publications.Rmd)
+- List of [publications](https://marielenas.github.io/personal-webpage/publications.html)
 
 - Let's keep in touch!
   - email
