@@ -7,27 +7,23 @@ My PhD research is funded by the Hellenic Foundation for Research and Innovation
 
 I hold a Bachelor’s degree in Philology with a specialization in Linguistics from NKUA and a [Master's in Cognitive Neuroscience of Language](https://www.bcbl.eu/en/study-with-us/masters-cognitive-neuroscience-language) from the University of the Basque Country (UPV/EHU) with collaboration with the Basque Center for Cognition, Brain and Language ([BCBL](https://www.bcbl.eu/es)). My master thesis was an eye-tracking study, investigating time reference in healthy Spanish speaking adults, supervised by Dr. Simona Mancini (BCBL) and Dr. Nicoletta Biondo (University of Siena).
 
-I am also affiliated with the University of Oslo (UiO), working as a research assistant for the Center for Multilingualism Across the Lifespan ([MultiLing Lab](https://www.hf.uio.no/multiling/english/topics/lab/about-the-lab/)) for the project _“Morphosyntactic Production in Stroke-induced Agrammatic Aphasia: A Cross-linguistic Machine Learning Approach”_ of Dr. Valantis Fyndanis. 
+I am also currently affiliated with the University of Oslo (UiO), working as a research assistant for the Center for Multilingualism Across the Lifespan ([MultiLing Lab](https://www.hf.uio.no/multiling/english/topics/lab/about-the-lab/)) for the project _“Morphosyntactic Production in Stroke-induced Agrammatic Aphasia: A Cross-linguistic Machine Learning Approach”_ of Dr. Valantis Fyndanis. 
 
 My research interests include acquired language disorders (principally aphasia), and neurobiology of language with a focus on neural correlates of syntactic processing.
 
 ---
 
-You can find my full CV [here](Soilemezidi_CV.pdf).
+Before you go, you can also check:
+
+- My [full CV](Soilemezidi_CV.pdf)
+
+- A list of my [publications](./publications.html)
+
+- Ways to [contact me](./contact.html)
 
 ---
 
-Add also:
+You can also find me here:
 
-- List of [publications](https://marielenas.github.io/personal-webpage/publications.html)
-
-- Let's keep in touch!
-  - email
-  - linkedIn
-  - twitter
-  - orcid
-  - researchgate
-
----
-
-..test
+- [ORCID](https://orcid.org/0000-0002-7936-4004)
+- [ResearchGate](https://www.researchgate.net/profile/Marielena-Soilemezidi)
