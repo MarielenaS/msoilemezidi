@@ -11,19 +11,15 @@ I am also currently affiliated with the University of Oslo (UiO), working as a r
 
 My research interests include acquired language disorders (principally aphasia), and neurobiology of language with a focus on neural correlates of syntactic processing.
 
+
+You can also find me on [ORCID](https://orcid.org/0000-0002-7936-4004) and [ResearchGate](https://www.researchgate.net/profile/Marielena-Soilemezidi).
+
 ---
 
-Before you go, you can also check:
+Before you go, you might want to check:
 
 - My [full CV](Soilemezidi_CV.pdf)
 
 - A list of my [publications](./publications.html)
 
 - Ways to [contact me](./contact.html)
-
----
-
-You can also find me here:
-
-- [ORCID](https://orcid.org/0000-0002-7936-4004)
-- [ResearchGate](https://www.researchgate.net/profile/Marielena-Soilemezidi)
