@@ -15,6 +15,6 @@ layout: default
 	- Biondo N., **Soilemezidi M.**, Mancini S. "Time in language: past and future are differently processed and both verbs and adverbs matter". Poster presentation at the Twelfth Annual Meeting of the Society for the Neurobiology of Language (SNL 2020). October 2020, online conference.
 	
 - Other Academic Contributions:	
-  - **Soilemezidi M.** & Fyndanis V., Translation – Adaptation to Greek of the Language Experience and Proficiency Questionnaire (LEAP-Q), by Marian, Blumenfeld, & Kaushanskaya (2007). Available at: [https://bilingualism.northwestern.edu/leapq/]
+  - **Soilemezidi M.** & Fyndanis V., Translation – Adaptation to Greek of the Language Experience and Proficiency Questionnaire (LEAP-Q), by Marian, Blumenfeld, & Kaushanskaya (2007). Available at: https://bilingualism.northwestern.edu/leapq/
 
 [back](./)
