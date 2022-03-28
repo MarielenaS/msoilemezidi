@@ -7,7 +7,7 @@ layout: default
 You can contact me via:
 
 - email: [soilemezidi.m.e@gmail.com](mailto:soilemezidi.m.e@gmail.com)
-- twitter: [MSoilemezidi](https://twitter.com/MSoilemezidi)
+- twitter: [@MSoilemezidi](https://twitter.com/MSoilemezidi)
 - LinkedIn: [Marielena Soilemezidi](https://www.linkedin.com/in/marielena-soilemezidi-908563131/)
 
 [back](./)
