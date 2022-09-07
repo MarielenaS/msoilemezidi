@@ -1,7 +1,7 @@
 # Marielena Soilemezidi
 
 
-**Marielena Soilemezidi** is a PhD student at the National and Kapodistrian University of Athens (NKUA), and a member of the [Lab of Psycholinguistics and Neurolinguistics at NKUA](https://psychoneurolinglab-en.phil.uoa.gr/home/); her dissertation titled _"Morphosyntactic Production and Processing in Agrammatic Aphasia"_ focuses on linguistic comprehension and production of temporal reference (past/future) and aspect (perfective/non-perfective) in Greek speaking individuals with non-fluent aphasia. Her thesis is supervised by Prof. Spyridoula Varlokosta (NKUA), Dr. Valantis Fyndanis (Technical University of Cyprus, TUC), and Prof. Athanasios Protopapas (University of Oslo, UiO).
+**Marielena Soilemezidi** is a PhD student at the National and Kapodistrian University of Athens (NKUA), and a member of the [Lab of Psycholinguistics and Neurolinguistics at NKUA](https://psychoneurolinglab-en.phil.uoa.gr/home/); her dissertation titled _"Morphosyntactic Production and Processing in Agrammatic Aphasia"_ focuses on linguistic comprehension and production of temporal reference (past/future) and aspect (perfective/non-perfective) in Greek speaking individuals with non-fluent aphasia. Her thesis is supervised by Prof. Spyridoula Varlokosta (NKUA), Dr. Valantis Fyndanis (Cyprus University of Technology, CUT), and Prof. Athanasios Protopapas (University of Oslo, UiO).
 
 Her PhD is funded by the Hellenic Foundation for Research and Innovation ([H.F.R.I.](https://www.elidek.gr/en/homepage/), 3rd Call for PhD Fellowships, Fellowship Number: 6161).
 
