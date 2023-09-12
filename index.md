@@ -1,4 +1,4 @@
-<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 ## Hello World!
 
